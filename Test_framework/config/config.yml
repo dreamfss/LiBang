@@ -1,0 +1,42 @@
+URL: http://newyili.demo.prerelease.cn
+#http://libang.demo.prerelease.cn/
+#http://newyili.demo.prerelease.cn
+#http://yili.demo.prerelease.cn/
+
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+#登录手机号
+phone: //*[@id="uname"]
+
+#登录密码
+password: //*[@id="password"]
+
+#登录页登录按钮
+login_button: //*[@id="btn-login"]
+
+#登录信息表格行数
+digital: 0
+
+#用户名ID
+Username: //*[@id="topbar"]/div[2]/div[2]
+
+#订单
+order: //*[@id="header"]/div[2]/div/dl[1]/dt/a
+#wg current
+#//span[@class='wg current']
+#///*[@id="header"]/div[2]/div/dl[1]/dt/a
+#ordr: 订单
+
+#新建订单
+new_order: //*[@id="side"]/div/div/div[6]/div[2]/ul/li/a
+
+#用户名搜索框
+user_search: //*[@id="ipt_data"]
+
+#搜索按钮
+serarch_user: //*[@id="btn_search_member"]/span/span

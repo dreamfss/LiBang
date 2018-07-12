@@ -1,0 +1,12 @@
+2018-06-05 15:14:18,763 - framework - INFO - test_001_login.Message: invalid argument: 'value' must be a string
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-06-05 15:15:22,686 - framework - INFO - test_001_login.Message: invalid argument: 'value' must be a string
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-06-05 15:22:10,003 - framework - INFO - test_001_login.Message: invalid argument: 'value' must be a string
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7601 SP1 x86_64)
+
